@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Md Shahabuddin</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
-<p align="left"> <img src="https://dresma.ai/wp-content/uploads/2022/01/Back-End-Developer-Node-JS-2.gif"  height="400" width="660"> </p>
+<p align="left"> <img src="https://dresma.ai/wp-content/uploads/2022/01/Back-End-Developer-Node-JS-2.gif"  height="400" width="900"> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahabu0901" alt="shahabu0901" /></a> </p>
 
