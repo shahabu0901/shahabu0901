@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mdshahabuddin7987@gmail.com**
 
-- 📫 How to reach me **mdshahabuddin7987@engineer.com**
+- 📫 How to reach me **shahabu.cse@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
